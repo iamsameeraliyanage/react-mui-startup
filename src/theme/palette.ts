@@ -12,9 +12,9 @@ export const palette: PaletteOptions = {
         contrastText: "#fff",
     },
     secondary: {
-        dark: "#f57c00",
-        main: "#ffa726",
-        light: "#ffb74d",
+        dark: "#4e514e",
+        main: "#646864",
+        light: "#b3b3b3",
         contrastText: "#fff",
     },
 };
